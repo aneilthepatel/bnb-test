@@ -1,4 +1,5 @@
-[
+{
+    "tokens": [
     {
       "id": 1,
       "title": "Token 1"
@@ -12,3 +13,4 @@
       "title": "Token 3"
     }
   ]
+}
